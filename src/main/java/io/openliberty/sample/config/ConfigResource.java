@@ -57,5 +57,6 @@ public class ConfigResource {
     }
     return propertiesBuilder.build();
   }
+  //Testing
 
 }
